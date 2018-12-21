@@ -9,4 +9,20 @@ public class footer {
         this.p = p;
         this.h = h;
     }
+
+    public string getP() {
+        return p;
+    }
+
+    public void setP(string p) {
+        this.p = p;
+    }
+
+    public string getH() {
+        return h;
+    }
+
+    public void setH(string h) {
+        this.h = h;
+    }
 }
