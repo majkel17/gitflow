@@ -92,3 +92,4 @@ fabric.properties
 
 /.idea/
 /gitflow.iml
+/src/main/java/credentials/my-credentials.txt
